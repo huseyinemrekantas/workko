@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\Practics\workko\bin\Debug\net7.0\workko.exe
+C:\Users\husey\Desktop\Practics\workko\bin\Debug\net7.0\workko.deps.json
+C:\Users\husey\Desktop\Practics\workko\bin\Debug\net7.0\workko.runtimeconfig.json
+C:\Users\husey\Desktop\Practics\workko\bin\Debug\net7.0\workko.dll
+C:\Users\husey\Desktop\Practics\workko\bin\Debug\net7.0\workko.pdb
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.AssemblyInfo.cs
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.dll
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\refint\workko.dll
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.pdb
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\workko.genruntimeconfig.cache
+C:\Users\husey\Desktop\Practics\workko\obj\Debug\net7.0\ref\workko.dll
